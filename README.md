@@ -1,3 +1,10 @@
+# Important Notice
+Please note that the development of this codebase has been surpassed by [KAELUS](https://github.com/druffko/kaelus). As a result, FindMail should be regarded as outdated since this code is not receiving any updates.
+
+[KAELUS](https://github.com/druffko/kaelus) offers the extended functionality and will be maintained with future updates and support for newer .NET Versions.
+
+
+
 ![Repo-Image](https://druffko.gg/github-images/findmail.png)
 
 <div align="center">
