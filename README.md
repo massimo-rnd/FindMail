@@ -1,29 +1,27 @@
 # Important Notice
-Please note that the development of this codebase has been surpassed by [KAELUS](https://github.com/druffko/kaelus). As a result, FindMail should be regarded as outdated since this code is not receiving any updates.
+Please note that the development of this codebase has been surpassed by [KAELUS](https://github.com/massimo-rnd/kaelus). As a result, FindMail should be regarded as outdated since this code is not receiving any updates.
 
-[KAELUS](https://github.com/druffko/kaelus) offers the extended functionality and will be maintained with future updates and support for newer .NET Versions.
+[KAELUS](https://github.com/massimo-rnd/kaelus) offers the extended functionality and will be maintained with future updates and support for newer .NET Versions.
 
 
-
-![Repo-Image](https://druffko.gg/github-images/findmail.png)
 
 <div align="center">
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/druffko/FindMail?include_prereleases)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/massimo-rnd/FindMail?include_prereleases)
 
 ![.NET Version](https://img.shields.io/badge/.NET-7.0-brightgreen)
-![GitHub last commit](https://img.shields.io/github/last-commit/druffko/FindMail)
+![GitHub last commit](https://img.shields.io/github/last-commit/massimo-rnd/FindMail)
 
   <br>
 
-  ![GitHub All Releases](https://img.shields.io/github/downloads/druffko/FindMail/total)
-  ![GitHub closed issues](https://img.shields.io/github/issues-closed/druffko/FindMail)
-  ![GitHub issues](https://img.shields.io/github/issues/druffko/FindMail)
+  ![GitHub All Releases](https://img.shields.io/github/downloads/massimo-rnd/FindMail/total)
+  ![GitHub closed issues](https://img.shields.io/github/issues-closed/massimo-rnd/FindMail)
+  ![GitHub issues](https://img.shields.io/github/issues/massimo-rnd/FindMail)
   
   <h1>FindMail</h1>
   <p>
     FindMail is a simple macOS Desktop application written in C#, that extracts E-Mail-Addresses from any URL you enter.<br>
-    Based on <a href="https://github.com/druffko/email-extractor">druffko/email-extractor</a>
+    Based on <a href="https://github.com/massimo-rnd/email-extractor">massimo-rnd/email-extractor</a>
   </p>
 </div>
 
@@ -55,7 +53,7 @@ FindMail is a simple macOS Desktop application written in C#, that extracts E-Ma
 
 ### Download the latest version
 
-To start off, please head to the [releases page](https://github.com/druffko/FindMail/releases) and download a pre-built .app package.
+To start off, please head to the [releases page](https://github.com/massimo-rnd/FindMail/releases) and download a pre-built .app package.
 
 *If you don't trust me for some reason, feel free to download the latest released source code and build it your self.*
 
@@ -95,8 +93,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-- **druffko** - [@druffko](https://twitter.com/druffko) - hi@druffko.gg
-- **Project Link** - https://github.com/druffko/FindMail
+- **massimo-rnd** - [@massimo_rnd](https://x.com/massimo_rnd) - hi@massimo.gg
+- **Project Link** - https://github.com/massimo-rnd/FindMail
 
 Feel free to reach out if you have any questions or suggestions!
 
